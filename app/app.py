@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 from json_repair import repair_json
 from fpdf import FPDF
 
-
 # -----------------------------
 # Gemini Setup
 # -----------------------------
